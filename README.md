@@ -9,7 +9,6 @@ Veusz Import Plugin for reading Ocean Optics ProcSpec files (written by Martinus
 - in an error message.
 - 
 - by Martinus Werts, CNRS, ENS Rennes, France
--
 - v140416   first release, 
 
 # about mwave class
